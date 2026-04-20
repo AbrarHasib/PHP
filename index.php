@@ -69,7 +69,7 @@ for ($i = 10; $i <= 100; $i++) {
         
     }
     echo "<br>";
-    echo "<br>";
+    
 echo "Question 7";
 echo "<br>";
 echo "Shape 1:";
